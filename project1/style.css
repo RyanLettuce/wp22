@@ -4,11 +4,13 @@
   justify-content: center;
   align-items: center;
   width: 100%;
+  transition: all 1s ease-out;
 }
 .table1{
   border: 1px solid black;
   min-width: 100%;
   top: 150px;
+  transition: all 1s ease-out;
 }
 .body {
   display: flex;
@@ -16,6 +18,7 @@
   align-items: center;
   width: 100%;
   position: relative;
+  transition: all 1s ease-out;
 }
 
 .title {
@@ -24,6 +27,7 @@
   left: 45px;
   font-family: Interstate;
   font-size: 45px;
+  transition: all 1s ease-out;
 }
 
 .title2 {
@@ -32,6 +36,7 @@
   left: 0px;
   font-family: Interstate;
   font-size: 45px;
+  transition: all 1s ease-out;
 }
 
 .title3 {
@@ -41,6 +46,7 @@
   font-family: Interstate;
   font-size: 45px;
   line-height: 120%;
+  transition: all 1s ease-out;
 }
 
 .intro {
@@ -52,6 +58,7 @@
   color: rgba(30, 30, 30, 1);
   font-size: 26px;
   line-height: 125%;
+  transition: all 1s ease-out;
 }
 
 .list {
@@ -60,6 +67,7 @@
   position: absolute;
   top: 350px;
   left: 1400px;
+  transition: all 1s ease-out;
 }
 
 .body2 {
@@ -73,6 +81,7 @@
   max-width: 90%;
   column-count: 3;
   column-gap: 40px;
+  transition: all 1s ease-out;
 }
 
 .img1 {
@@ -80,24 +89,28 @@
   top:1050px;
   left:400px;
   border: 4px dotted black;
+  transition: all 1s ease-out;
 }
 .img2 {
   position:absolute;
   top:1300px;
   left:100px;
   border: 4px dotted black;
+  transition: all 1s ease-out;
 }
 .img3 {
   position:absolute;
   top:1350px;
   left:1050px;
   border: 4px dotted black;
+  transition: all 1s ease-out;
 }
 .img4 {
   position:absolute;
   top:1600px;
   left:680px;
   border: 4px dotted black;
+  transition: all 1s ease-out;
 }
 .img5 {
   position:absolute;
@@ -106,6 +119,7 @@
   width:20%;
   height:20%;
   border: 4px dotted black;
+  transition: all 1s ease-out;
 }
 .img6 {
   position:absolute;
@@ -114,6 +128,7 @@
   border: 4px dotted black;
   width:15%;
   height:15%;
+  transition: all 1s ease-out;
 }
 .img7 {
   position:absolute;
@@ -122,6 +137,7 @@
   width:10%;
   height:10%;
   border: 4px dotted black;
+  transition: all 1s ease-out;
 }
 
 .body3 {
@@ -133,6 +149,7 @@
   top: 2800px;
   left: 50px;
   max-width: 100%;
+  transition: all 1s ease-out;
 }
 .table2{
   border: 1px solid black;
@@ -140,4 +157,5 @@
   position: absolute;
   top: 100px;
   left: 100px;
+  transition: all 1s ease-out;
 }
