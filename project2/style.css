@@ -4,12 +4,27 @@
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-gap: 20px;
   justify-self: center;
+  border: 1px solid black;
+  border-radius: 50px;
+  background-color: white;
+  padding: 40px;
 }
 .container2{
   display:grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px;
+  padding: 50px;
   justify-self: center;
+  border: 1px solid black;
+  border-radius: 50px;
+  background-color: white;
+}
+  .imagecontainer{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    justify-self: center;
+
 }
 .header{
   grid-column: 1/10;
