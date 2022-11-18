@@ -9,7 +9,7 @@ html{
 }
 a{
   text-decoration: none;
-  color: white;
+  color: inherit;
   font-family: ibm-plex-sans;
 }
 .img_large{
